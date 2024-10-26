@@ -1,5 +1,5 @@
 # Discriminant-Analysis
-developing LDA and QDA models for his raisin_dataset.csv 
+developing LDA and QDA models for raisin_dataset.csv 
 dataset and evaluate its effectiveness. The dataset has 900 observations and 8 
 variables: 
 Independent Variables 
